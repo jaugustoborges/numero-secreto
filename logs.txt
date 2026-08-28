@@ -1,0 +1,36 @@
+commit b8fd4df7a125f521679a5425a1ffbcefc05ce475
+Author: Augusto Borges <jaugustoborges@gmail.com>
+Date:   Thu Aug 27 23:22:10 2026 -0300
+
+    mudanças no titulo e gitignore
+
+commit 2460967ca07697942eddcf3b57d7ea1e049b4bb4
+Merge: 15d3bbc c2a1ac5
+Author: Augusto Borges <jaugustoborges@gmail.com>
+Date:   Thu Aug 27 22:47:59 2026 -0300
+
+    Merge branch 'main' of github.com:jaugustoborges/numero-secreto
+
+commit 15d3bbcc6628fa9326b758944fc311558523bd63
+Author: Augusto Borges <jaugustoborges@gmail.com>
+Date:   Thu Aug 27 14:36:22 2026 -0300
+
+    Deixando o jogo mais simples
+
+commit c2a1ac548e0906fcd8d6f3b69ae5cf4d9b8c2330
+Author: Augusto Borges <jaugustoborges@gmail.com>
+Date:   Thu Aug 27 14:36:22 2026 -0300
+
+    Deixando o jogo mais facil
+
+commit faad570068edf8e0046f48fab3017655a520fd0c
+Author: Augusto Borges <augusto.borges@ANIMALE.LOCAL>
+Date:   Thu Aug 27 01:17:37 2026 -0300
+
+    alterando limite para 100
+
+commit b0191d4e671b9d71cdf234cce8aa04a1f6a170be
+Author: Augusto Borges <augusto.borges@ANIMALE.LOCAL>
+Date:   Thu Aug 27 00:27:43 2026 -0300
+
+    projeto inicial
